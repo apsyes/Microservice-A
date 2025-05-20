@@ -11,6 +11,8 @@ Receving data in a JSON file with the format like this:
     "closeHour": 21
   }
 ]
-Example workflow with for a 2pm request
+
+Example workflow with for a 2pm request:
+
 ![image](https://github.com/user-attachments/assets/5dbfa88a-73ca-4e79-93e6-3bcf31332f46)
 
